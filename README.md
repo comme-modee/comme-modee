@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 👨‍💻 All of my projects are available at [modee.kr](modee.kr)
-
-- 📝 I regularly write articles on [https://comme-modee.github.io/](https://comme-modee.github.io/)
+- 👨‍💻 All of my projects are available at [https://comme-modee.github.io/](https://comme-modee.github.io/)
 
 - 📫 How to reach me **comme746@naver.com**
 
