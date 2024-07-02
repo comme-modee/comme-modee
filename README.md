@@ -7,11 +7,6 @@
 
 - 📫 How to reach me **comme746@naver.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/modeelovey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="modeelovey" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&amp;logo=Node.js&amp;logoColor=white" alt="Node.js"> 
@@ -23,3 +18,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=Git&amp;logoColor=white" alt="Git"> 
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&amp;logo=Github&amp;logoColor=white" alt="Github"> <br/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=Bootstrap&amp;logoColor=white" alt="Bootstrap"> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/modeelovey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="modeelovey" height="30" width="40" /></a>
+</p>
