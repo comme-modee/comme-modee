@@ -14,7 +14,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=JavaScript&amp;logoColor=white" alt="JavaScript"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&amp;logo=HTML&amp;logoColor=white" alt="HTML"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=JavaScript&amp;logoColor=white" alt="JavaScript"> 
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&amp;logo=HTML&amp;logoColor=white" alt="HTML"> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=CSS3&amp;logoColor=white" alt="CSS3"> <br/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&amp;logo=jQuery&amp;logoColor=white" alt="jQuery"> <br/>
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&amp;logo=Node.js&amp;logoColor=white" alt="Node.js"> <br/>
