@@ -33,8 +33,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://soosoovillage.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FC5D4A?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 <a href="https://instagram.com/modeelovey" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<!-- <a href="https://instagram.com/modeelovey" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="modeelovey" height="30" width="40" />
-</a> -->
 </p>
