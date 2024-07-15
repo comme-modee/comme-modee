@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Modee</h1>
 <h3 align="left">An enthusiastic publisher aspiring to become a frontend developer from Korea</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://comme-modee.github.io/](https://comme-modee.github.io/)
 
